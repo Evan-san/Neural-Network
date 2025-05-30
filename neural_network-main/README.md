@@ -1,8 +1,8 @@
 # Neural Network from Scratch
 
-Simple neural network implementation for MNIST digit classification, built from scratch with NumPy.
+Simple neural network implementation for MNIST digit
 
-*Based on Michael Nielsen's "[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)", adjusted slightly for my [Youtube video](https://youtu.be/WLmY9icEOQk).*
+*Thanks to  Michael Nielsen's "[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)" bisa cek sendiri
 
 ## Quick Start
 
