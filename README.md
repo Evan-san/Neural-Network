@@ -1,5 +1,5 @@
 # Neural-Network
-Nyoba mulis nomor
+Nyoba nulis nomor dan prediksi dengan Neural Network
 
 Nanti buka, masukin MNIST Pickle untuk dataset training
 terus training di ipynb
